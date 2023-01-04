@@ -34,7 +34,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Definição de Orçamento de Billing](https://web.dio.me/lab/definicao-de-orcamento-de-billing/learning/1974aeea-71fc-4965-abe0-165a7f0e8f3a)[Entendendo o desafio](https://web.dio.me/lab/definicao-de-orcamento-de-billing/learning/0d6829ac-e565-4b34-bf31-99e3350c812f)
+- [Definição de Orçamento de Billing](https://web.dio.me/lab/definicao-de-orcamento-de-billing/learning/1974aeea-71fc-4965-abe0-165a7f0e8f3a)
+- [Entendendo o desafio](https://web.dio.me/lab/definicao-de-orcamento-de-billing/learning/0d6829ac-e565-4b34-bf31-99e3350c812f)
 
 
 
